@@ -1,4 +1,4 @@
-# EdexLab - AI-Powered Learning Platform --testing
+# EdexLab - AI-Powered Learning Platform --testing2
 
 An intelligent, personalized learning platform that adapts to each student's needs and learning style.
 
